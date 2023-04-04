@@ -5,7 +5,7 @@ function App() {
   return (
    <div>
      <div>Hello React</div>
-     <h2>react stydy</h2>
+     <h2>react study</h2>
    <table border="1">
     <tr>
       <td>시간</td>
